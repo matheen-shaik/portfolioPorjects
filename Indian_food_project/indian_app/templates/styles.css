@@ -1,0 +1,51 @@
+body {
+    background-image: url("images/the-best-top-10-indian-dishes.jpg");
+    background-size: black;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 20px;
+    /* background-color: rgba(255, 255, 255, 0.9); */
+    background-color: black; 
+    border-radius: 10px;
+    text-align: center;
+}
+
+h1 {
+    color: #ff5500;
+    font-size: 28px;
+}
+
+label {
+    display: block;
+    margin-top: 10px;
+    font-size: 18px;
+}
+
+select {
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+    font-size: 16px;
+    border-radius: 5px;
+}
+
+button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    font-size: 18px;
+    font-weight: bold;
+    background-color: #ff5500;
+    color: #ffffff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #ff7733;
+}
