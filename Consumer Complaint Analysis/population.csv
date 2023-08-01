@@ -1,0 +1,66 @@
+State,Code,Capital,Population,Area (square miles)
+ Alabama ,AL ,Montgomery ,"4,903,185","52,420"
+ Alaska ,AK ,Juneau ,"731,545","665,384"
+ Arizona ,AZ ,Phoenix ,"7,278,717","113,990"
+ Arkansas ,AR ,Little Rock ,"3,017,804","53,179"
+ California ,CA ,Sacramento ,"39,512,223","163,695"
+ Colorado ,CO ,Denver ,"5,758,736","104,094"
+ Connecticut ,CT ,Hartford ,"3,565,278","5,543"
+ Delaware ,DE ,Dover ,"973,764","2,489"
+ Florida ,FL ,Tallahassee ,"21,477,737","65,758"
+ Georgia ,GA ,Atlanta ,"10,617,423","59,425"
+ Hawaii ,HI ,Honolulu ,"1,415,872","10,932"
+ Idaho ,ID ,Boise ,"1,787,065","83,569"
+ Illinois ,IL ,Springfield ,"12,671,821","57,914"
+ Indiana ,IN ,Indianapolis ,"6,732,219","36,420"
+ Iowa ,IA ,Des Moines ,"3,155,070","56,273"
+ Kansas ,KS ,Topeka ,"2,913,314","82,278"
+ Kentucky,KY ,Frankfort ,"4,467,673","40,408"
+ Louisiana ,LA ,Baton Rouge ,"4,648,794","52,378"
+ Maine ,ME ,Augusta ,"1,344,212","35,380"
+ Maryland ,MD ,Annapolis ,"6,045,680","12,406"
+ Massachusetts,MA ,Boston ,"6,892,503","10,554"
+ Michigan ,MI ,Lansing ,"9,986,857","96,714"
+ Minnesota ,MN ,St. Paul ,"5,639,632","86,936"
+ Mississippi ,MS ,Jackson ,"2,976,149","48,432"
+ Missouri ,MO ,Jefferson City ,"6,137,428","69,707"
+ Montana ,MT ,Helena ,"1,068,778","147,040"
+ Nebraska ,NE ,Lincoln ,"1,934,408","77,348"
+ Nevada ,NV ,Carson City ,"3,080,156","110,572"
+ New Hampshire ,NH ,Concord ,"1,359,711","9,349"
+ New Jersey ,NJ ,Trenton ,"8,882,190","8,723"
+ New Mexico ,NM ,Santa Fe ,"2,096,829","121,590"
+ New York ,NY ,Albany ,"19,453,561","54,555"
+ North Carolina ,NC ,Raleigh ,"10,488,084","53,819"
+ North Dakota ,ND ,Bismarck ,"762,062","70,698"
+ Ohio ,OH ,Columbus ,"11,689,100","44,826"
+ Oklahoma ,OK ,Oklahoma City ,"3,956,971","69,899"
+ Oregon ,OR ,Salem ,"4,217,737","98,379"
+ Pennsylvania,PA ,Harrisburg ,"12,801,989","46,054"
+ Rhode Island,RI ,Providence ,"1,059,361","1,545"
+ South Carolina ,SC ,Columbia ,"5,148,714","32,020"
+ South Dakota ,SD ,Pierre ,"884,659","77,116"
+ Tennessee ,TN ,Nashville ,"6,829,174","42,144"
+ Texas ,TX ,Austin ,"28,995,881","268,596"
+ Utah ,UT ,Salt Lake City ,"3,205,958","84,897"
+ Vermont ,VT ,Montpelier ,"623,989","9,616"
+ Virginia,VA ,Richmond ,"8,535,519","42,775"
+ Washington ,WA ,Olympia ,"7,614,893","71,298"
+ West Virginia ,WV ,Charleston ,"1,792,147","24,230"
+ Wisconsin ,WI ,Madison ,"5,822,434","65,496"
+ Wyoming ,WY ,Cheyenne ,"578,759","97,813"
+District of Columbia,DC,,"705,749",68
+American Samoa ,AS ,Pago Pago,,581
+Guam ,GU ,Hagåtña,,571
+Northern Mariana Islands ,MP ,Saipan,,"1,976"
+Puerto Rico ,PR ,San Juan,"3,193,694","5,325"
+U.S. Virgin Islands ,VI ,Charlotte Amalie,,733
+Baker Island,,,,0.9
+Howland Island,,,,0.6
+Jarvis Island,,,,2.2
+Johnston Atoll,,,,1
+Kingman Reef,,,,0.005
+Midway Atoll,,,,3
+Navassa Island,,,,3
+Palmyra Atoll,,,,1.5
+Wake Island,,,,2.5
